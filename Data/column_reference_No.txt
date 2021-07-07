@@ -1,0 +1,28 @@
+{'Timestamp': 'Timestamp',
+ 'Email Address': 'Email',
+ 'What is your age (in years)?': 'age',
+ 'What is your gender?': 'gender',
+ 'Are you a mobile e-sports/gaming enthusiast?': 'gaming_enthusiast',
+ 'What are the major activities you do on your smartphone?.1': 'activities',
+ 'How often do you buy a smartphone?.1': 'buy_smartphone',
+ 'Which processor do you prefer?': 'procesessor_prefrence',
+ 'Do you possess a smartphone that is flexible for heavy gaming?.1': 'flexible_for_gaming',
+ 'Prioritize the feature which you look at the time of buying a smartphone. (1 for least, 5 for highest) [Battery]': 'rate_Battery',
+ 'Prioritize the feature which you look at the time of buying a smartphone. (1 for least, 5 for highest) [Camera]': 'rate_Camera',
+ 'Prioritize the feature which you look at the time of buying a smartphone. (1 for least, 5 for highest) [Display]': 'rate_Display',
+ 'Prioritize the feature which you look at the time of buying a smartphone. (1 for least, 5 for highest) [Processor]': 'rate_Processor',
+ 'Prioritize the feature which you look at the time of buying a smartphone. (1 for least, 5 for highest) [RAM & Storage]': 'rate_RAM & Storage',
+ 'Rate the factors on a scale of 5 on how much they influence you while buying a smartphone? ( 1 for lower,  5 for higher rating) [Gaming performance]': 'Rate_Gaming_performance',
+ 'Rate the factors on a scale of 5 on how much they influence you while buying a smartphone? ( 1 for lower,  5 for higher rating) [Brand Name]': 'Rate_Brand',
+ 'Rate the factors on a scale of 5 on how much they influence you while buying a smartphone? ( 1 for lower,  5 for higher rating) [Budget]': 'Rate_Budget',
+ 'Rate the factors on a scale of 5 on how much they influence you while buying a smartphone? ( 1 for lower,  5 for higher rating) [Product features]': 'Rate_Product_features',
+ 'Rate the factors on a scale of 5 on how much they influence you while buying a smartphone? ( 1 for lower,  5 for higher rating) [Social influence]': 'Rate_Social_influence',
+ 'Do you think the companies should compromise gaming performance to focus more on basic features like camera, screen etc. at an affordable price?': 'should_launch_more_gaming_compromising_basic_features',
+ 'Which brand of Smartphone are you using currently?.1': "your_phone's_brand"}
+
+
+
+
+
+
+ 
